@@ -1,0 +1,7 @@
+prometheus:
+  url: "http://localhost:9090"
+
+ml_model:
+  type: "lstm"
+  input_features: ["cpu_usage", "memory_usage"]
+  threshold: 0.95

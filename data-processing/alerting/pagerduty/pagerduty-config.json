@@ -1,0 +1,6 @@
+{
+  "service_key": "your-pagerduty-service-key",
+  "severity": "critical",
+  "client": "proactive-monitoring",
+  "client_url": "https://monitoring.example.com"
+}

@@ -1,0 +1,3 @@
+splunk:
+  index: "monitoring-events"
+  search_query: "index=monitoring-events | stats count by event_type"

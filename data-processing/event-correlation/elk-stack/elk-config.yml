@@ -1,0 +1,4 @@
+elk:
+  kibana_url: "http://localhost:5601"
+  elasticsearch_url: "http://localhost:9200"
+  logstash_config: "logstash.conf"
