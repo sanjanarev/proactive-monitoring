@@ -1,0 +1,7 @@
+{
+  "type": "dashboard",
+  "attributes": {
+    "title": "Log Monitoring Dashboard",
+    "panelsJSON": "[{\"panelIndex\":\"1\",\"type\":\"visualization\",\"id\":\"log-analysis\",\"size_x\":6,\"size_y\":3}]"
+  }
+}
