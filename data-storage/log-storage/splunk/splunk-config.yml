@@ -1,0 +1,5 @@
+splunk:
+  password: "your-password"
+  startArgs: "--accept-license"
+  enableSplunkWeb: true
+  splunkWebPort: 8000
